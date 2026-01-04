@@ -2,3 +2,4 @@
 !/code
 !*.c
 !.gitignore
+!*.md
