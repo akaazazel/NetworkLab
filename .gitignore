@@ -1,5 +1,1 @@
-*
-!/code
-!*.c
-!.gitignore
-!*.md
+.vscode
