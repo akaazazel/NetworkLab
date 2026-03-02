@@ -1,1 +1,5 @@
 .vscode
+# Ignore compiled binaries (no extension)
+*
+!*.*
+!*/
